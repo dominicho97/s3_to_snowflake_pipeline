@@ -13,5 +13,6 @@ To have the correct access rights to move the data from s3 to snowflake:<br>
 ![etl3snowflake_access](https://github.com/dominicho97/s3_to_snowflake_pipeline/assets/43000003/14e38528-b250-4f6c-9573-12096e5696f8)
 
 
+## Result
 Integration object and stored datawarehouse in snowflake
 ![stored_warehouse_snowflake](https://github.com/dominicho97/s3_to_snowflake_pipeline/assets/43000003/859bdbb8-4bd8-44c8-bcf0-b416e793b505)
